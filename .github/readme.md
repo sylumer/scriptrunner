@@ -18,7 +18,7 @@ The example folder in this repo contains an example file which will speak a sent
 2. Unzip the zip file to get the `Script Runner.app` file.
 2. Move the `Script Runner.app` file into your `Applications` folder.
 
-# License
+## License
 - [Application license](https://github.com/sylumer/scriptrunner/blob/main/.github/license.md).
 
 ## Donate
