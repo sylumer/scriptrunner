@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+say 'When opened, Script Runner should execute my content and I should speak these words'
