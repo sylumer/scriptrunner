@@ -12,8 +12,9 @@ With Script Runner installed, you can rename your script to have a `.shx` (*shel
 
 
 ## Installation
-1. Download the `Script Runner.app` file from this repository.
-2. Place the file in your `Applications` folder.
+1. Download the `Script Runner.app.zip` file from [the latest release in this repository](https://github.com/sylumer/scriptrunner/releases).
+2. Unzip the zip file to get the `Script Runner.app` file.
+2. Move the `Script Runner.app` file into your `Applications` folder.
 
 
 ## Donate
