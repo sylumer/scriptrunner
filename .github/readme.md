@@ -10,6 +10,8 @@ Standard options for execution involve terminal sessions:
 
 With Script Runner installed, you can rename your script to have a `.shx` (*shell-executable*) or `.rsh` (*run-shell*) file extension. When such a file is opened, Script Runner will execute the script instructions it contains, but it will do so in the background - without a terminal window being displayed.
 
+The example folder in this repo contains an example file which will speak a sentence when executed; you can view the file content to verify the shell script code that will execute.
+
 
 ## Installation
 1. Download the `Script Runner.app.zip` file from [the latest release in this repository](https://github.com/sylumer/scriptrunner/releases).
