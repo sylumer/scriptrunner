@@ -19,4 +19,4 @@ The app and assets thereof are expressly provided "AS IS." WE MAKE NO WARRANTY O
 
 You are solely responsible for determining the appropriateness of using the app and you assume all risks associated with its use, including but not limited to the risks and costs of errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and the unavailability or interruption of operation. This app is not intended to be used in any situation where a failure could cause risk of injury or damage to property.
 
-Basically, we use these app for ourselves, we're sharing it publicly so others may benefit. Please don't pass the effort put into this off as your own, and while we guarantee nothing regarding use, we really hope that you find it useful.
+Basically, we created this app to use ourselves, we're sharing it publicly so others may benefit. Please don't pass the effort put into this off as your own, and while we guarantee nothing regarding use, we really hope that you find it useful.
