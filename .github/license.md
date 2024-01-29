@@ -13,7 +13,7 @@ Please take the time to read the legal disclaimer below.
 
 This app is shared publicly to help others. You may use, and copy the app for your own use. For any non-personal sharing or distribution, you are required to provide a reference to this repository. This is simply to enable the recipient to keep up to date with any updates that we may make to the original app.
 
-Any modifications or derivative works based on any proportion of any part of this plugin, must carry a notice stating that you have modified the original and should note the date and nature of any such change. Please explicitly acknowledge this repository as the original source of app.
+Any modifications or derivative works based on any proportion of any part of this app, must carry a notice stating that you have modified the original and should note the date and nature of any such change. Please explicitly acknowledge this repository as the original source of the app.
 
 The app and assets thereof are expressly provided "AS IS." WE MAKE NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED, IN FACT OR ARISING BY OPERATION OF LAW, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND DATA ACCURACY. WE NEITHER REPRESENTS NOR WARRANT THAT THE OPERATION OF THE CODE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT ANY DEFECTS WILL BE CORRECTED. WE DO NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OF THE SOFTWARE OR THE RESULTS THEREOF, INCLUDING BUT NOT LIMITED TO THE CORRECTNESS, ACCURACY, RELIABILITY, OR USEFULNESS OF THE CODE.
 
